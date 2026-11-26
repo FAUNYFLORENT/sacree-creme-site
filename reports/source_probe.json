@@ -1,0 +1,242 @@
+[
+  {
+    "file": "montage_3_site_horizontal.mov",
+    "duration_s": 36.288,
+    "size_mb": 315.9,
+    "codec": "h264",
+    "wh": "1920x1080",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_horizontal_concept_archi_1.mov",
+    "duration_s": 7.4,
+    "size_mb": 55.66,
+    "codec": "h264",
+    "wh": "1920x1080",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_boisson.mov",
+    "duration_s": 19.04,
+    "size_mb": 155.82,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_chai_latte.mov",
+    "duration_s": 4.24,
+    "size_mb": 22.59,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_chantilly.mov",
+    "duration_s": 3.32,
+    "size_mb": 19.92,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_chocolat_chaud.mov",
+    "duration_s": 13.68,
+    "size_mb": 98.07,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_concept_archi_1.mov",
+    "duration_s": 7.36,
+    "size_mb": 40.62,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_concept_archi_2.mov",
+    "duration_s": 9.36,
+    "size_mb": 59.4,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_concept_archi_3.mov",
+    "duration_s": 7.0,
+    "size_mb": 52.0,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_deg_milkshake_kasha_noisette.mov",
+    "duration_s": 4.76,
+    "size_mb": 24.68,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_dirty_chai_1.mov",
+    "duration_s": 13.84,
+    "size_mb": 135.16,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_dirty_chai_2.mov",
+    "duration_s": 11.16,
+    "size_mb": 107.95,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_glace_caramel.mov",
+    "duration_s": 6.08,
+    "size_mb": 37.53,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_glace_coco_mangue.mov",
+    "duration_s": 12.64,
+    "size_mb": 99.69,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_glace_framboise.mov",
+    "duration_s": 12.24,
+    "size_mb": 91.48,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_glace_madeleine_jeannette.mov",
+    "duration_s": 17.84,
+    "size_mb": 147.75,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_glace_vanille.mov",
+    "duration_s": 8.72,
+    "size_mb": 55.3,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_glace_vanille_framboise.mov",
+    "duration_s": 13.08,
+    "size_mb": 103.97,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_glace_voilette.mov",
+    "duration_s": 15.92,
+    "size_mb": 118.53,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_matcha_1.mov",
+    "duration_s": 13.68,
+    "size_mb": 123.5,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_matcha_2.mov",
+    "duration_s": 11.72,
+    "size_mb": 115.4,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_milkshake_oreo_1.mov",
+    "duration_s": 7.84,
+    "size_mb": 61.92,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_milkshake_oreo_2.mov",
+    "duration_s": 4.08,
+    "size_mb": 32.88,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_passage_glace_kasha_1.mov",
+    "duration_s": 6.84,
+    "size_mb": 58.77,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_passage_glace_kasha_2.mov",
+    "duration_s": 6.04,
+    "size_mb": 44.63,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_vitrine_1.mov",
+    "duration_s": 7.4,
+    "size_mb": 43.14,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_vitrine_2.mov",
+    "duration_s": 9.04,
+    "size_mb": 59.27,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_vitrine_3.mov",
+    "duration_s": 7.44,
+    "size_mb": 41.7,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_vitrine_4.mov",
+    "duration_s": 13.56,
+    "size_mb": 99.53,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  },
+  {
+    "file": "plan_vertical_vitrine_5.mov",
+    "duration_s": 5.44,
+    "size_mb": 36.15,
+    "codec": "h264",
+    "wh": "1080x1920",
+    "fps": "25/1"
+  }
+]
