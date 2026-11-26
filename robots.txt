@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Prototype non validé : indexation volontairement bloquée.

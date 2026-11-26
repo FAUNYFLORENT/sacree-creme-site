@@ -1,0 +1,10 @@
+{
+  "name": "sacree-creme-site-prototype",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "python3 -m http.server 4173",
+    "check": "python3 scripts/validate_site.py",
+    "build:media": "bash scripts/build_selected_media.sh"
+  }
+}

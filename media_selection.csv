@@ -1,0 +1,16 @@
+ordre_provisoire,fichier,usage_propose,statut_local,traitement,validation_requise
+1,Plan_horizontal_concept_archi_1.mov,Séquence architecturale — ordre source 1,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Raccords et découpes à valider après revue visuelle
+2,Plan_horizontal_concept_archi_2.mov,Séquence architecturale — ordre source 2,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Raccords et découpes à valider après revue visuelle
+3,Plan_horizontal_concept_archi_3.mov,Séquence architecturale — ordre source 3,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Raccords et découpes à valider après revue visuelle
+4,Plan_horizontal_concept_archi_4.mov,Séquence architecturale — ordre source 4,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Raccords et découpes à valider après revue visuelle
+5,Plan_horizontal_concept_archi_5.mov,Séquence architecturale — ordre source 5,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Raccords et découpes à valider après revue visuelle
+6,Plan_horizontal_concept_archi_6.mov,Séquence architecturale — ordre source 6 ; cité comme sortie du focus glace,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Placement définitif à arbitrer avec Florent selon la séquence de prélèvement
+7,Plan_horizontal_concept_archi_7.mov,Séquence architecturale — ordre source 7,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Raccords et découpes à valider après revue visuelle
+8,Plan_horizontal_concept_archi_8.mov,Séquence architecturale — ordre source 8,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Raccords et découpes à valider après revue visuelle
+9,Plan_horizontal_concept_archi_9.mov,Séquence architecturale — ordre source 9,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Raccords et découpes à valider après revue visuelle
+10,Plan_horizontal_concept_archi_logo_extérieur.mov,Focus enseigne extérieure avec ciel en fond — après archi_9,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Raccords et découpe à confirmer avec Florent
+Position_à_arbitrer,Plan_vertical_*.mov,Séquence de prélèvement de la glace à la cuillère et usages mobile,28 sources téléchargées,Deux candidats optimisés : glace vanille et remise du pot,Fichier de base et placement définitif à confirmer par Florent
+Rôle_validé,Plan_vertical_chocolat_chaud.mov,Fond animé Coffee Shop avec typographie blanche ; lien Produit du moment,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Contrôler le texte définitif et le contraste du blanc
+Transition_position_à_arbitrer,Plan_vertical_concept_archi_3.mov,Transition verticale miroir et logo,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Point d'insertion entre archi_1 et archi_9 à choisir par Florent
+Position_à_arbitrer,Plan_horizontal_pluie_sucre_glace.mov,Pluie de sucre glace,Téléchargé,MP4/WebM desktop-mobile + poster + scrub GOP3,Position à requalifier et décider par Florent au montage
+Complément_Caen,Montage_3_site_horizontal.mov,Séquences Caen façade-intérieur-produits-ambiance,Téléchargé,4 extraits courts en MP4/WebM desktop-mobile + poster + scrub GOP3,Timecodes et affectations à valider avec Florent

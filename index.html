@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Sacrée Crème — glacier, coffee shop et salon de thé. Découvre notre univers gourmand et notre projet de franchise." />
+  <meta name="theme-color" content="#335052" />
+  <title>Sacrée Crème — Créateur d’émotions glacées</title>
+  <link rel="preload" href="./public/assets/logo-sacree-creme.svg" as="image" type="image/svg+xml" />
+  <link rel="stylesheet" href="./src/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Aller au contenu</a>
+  <div class="draft-flag" aria-label="Statut du prototype">Projet à valider</div>
+
+  <header class="site-header" id="site-header">
+    <a class="brand" href="#top" aria-label="Sacrée Crème, accueil">
+      <img src="./public/assets/logo-sacree-creme.svg" alt="Sacrée Crème — Créateur d’émotions glacées" />
+    </a>
+    <nav class="main-nav" aria-label="Navigation principale">
+      <a href="#experience">L’expérience</a>
+      <a href="#gourmandises">Nos gourmandises</a>
+      <a href="#boutiques">Nos boutiques</a>
+      <a class="nav-franchise" href="#franchise">Ouvrir ta Sacrée Crème</a>
+    </nav>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="mobile-nav">Menu</button>
+  </header>
+
+  <nav class="mobile-nav" id="mobile-nav" aria-label="Navigation mobile" hidden>
+    <a href="#experience">L’expérience</a>
+    <a href="#gourmandises">Nos gourmandises</a>
+    <a href="#boutiques">Nos boutiques</a>
+    <a href="#franchise">Ouvrir ta Sacrée Crème</a>
+  </nav>
+
+  <main id="main">
+    <section class="hero" id="top" aria-labelledby="hero-title">
+      <div class="hero-media media-frame" data-scrub-zone>
+        <video class="scrub-video hero-video" muted playsinline preload="metadata" poster="./public/media/posters/prelevement-glace-vanille.jpg" aria-label="Une cuillère prélève une glace artisanale">
+          <source src="./public/media/signature/prelevement-glace-vanille-mobile.webm" type="video/webm" media="(max-width: 760px)" />
+          <source src="./public/media/signature/prelevement-glace-vanille-mobile.mp4" type="video/mp4" media="(max-width: 760px)" />
+          <source src="./public/media/signature/prelevement-glace-vanille-desktop.webm" type="video/webm" />
+          <source src="./public/media/signature/prelevement-glace-vanille-desktop.mp4" type="video/mp4" />
+        </video>
+        <div class="video-shade"></div>
+      </div>
+      <div class="hero-copy">
+        <p class="eyebrow">Glacier · Coffee shop · Salon de thé</p>
+        <h1 id="hero-title">Un délicieux frisson de gourmandise.</h1>
+        <p>Des glaces artisanales, des crêpes, des gaufres et des boissons gourmandes dans un lieu où tu as envie de rester.</p>
+        <div class="hero-actions">
+          <a class="button button-light" href="#gourmandises">Découvrir la carte</a>
+          <a class="button button-ghost-light" href="#franchise">Ouvrir une boutique</a>
+        </div>
+      </div>
+      <div class="scroll-cue" aria-hidden="true"><span></span>Fais défiler</div>
+    </section>
+
+    <section class="manifesto section-pad" id="experience">
+      <div class="manifesto-mark">S</div>
+      <div>
+        <p class="eyebrow coral">Créateur d’émotions glacées</p>
+        <h2>La glace au cœur.<br />La gourmandise tout autour.</h2>
+      </div>
+      <p class="manifesto-body">Sacrée Crème réunit le savoir-faire d’un artisan glacier et l’énergie chaleureuse d’un coffee shop. Un univers lumineux, généreux et authentique, pensé pour chaque saison.</p>
+    </section>
+
+    <section class="architecture-story" aria-label="Visite du concept architectural">
+      <div class="story-intro section-pad">
+        <p class="eyebrow">Entre chez Sacrée Crème</p>
+        <h2>Une visite en mouvement</h2>
+        <p>Façade, comptoir, matières et détails : avance dans le concept au rythme du scroll. Remonte pour refaire le chemin en sens inverse.</p>
+      </div>
+      <div class="architecture-stage" data-architecture-stage>
+        <div class="architecture-sticky">
+          <video class="architecture-video" muted playsinline preload="metadata" poster="./public/media/posters/archi-1.jpg" aria-label="Visite du concept architectural Sacrée Crème">
+            <source src="./public/media/architecture/archi-1-scrub-gop3.mp4" type="video/mp4" />
+          </video>
+          <div class="architecture-overlay">
+            <span class="architecture-index">01 / 10</span>
+            <div>
+              <p class="eyebrow">Le concept en vrai</p>
+              <h3>De la rue jusqu’au cœur de la boutique</h3>
+            </div>
+          </div>
+          <div class="architecture-progress" aria-hidden="true"><span></span></div>
+        </div>
+        <div class="architecture-steps" aria-hidden="true">
+          <div data-video="archi-1"></div><div data-video="archi-2"></div><div data-video="archi-3"></div>
+          <div data-video="archi-4"></div><div data-video="archi-5"></div><div data-video="archi-6"></div>
+          <div data-video="archi-7"></div><div data-video="archi-8"></div><div data-video="archi-9"></div>
+          <div data-video="archi-logo-exterieur"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mirror-transition media-frame" aria-label="Transition de la visite">
+      <video muted autoplay loop playsinline preload="none" poster="./public/media/posters/miroir-logo-transition.jpg">
+        <source src="./public/media/signature/miroir-logo-transition-mobile.webm" type="video/webm" media="(max-width: 760px)" />
+        <source src="./public/media/signature/miroir-logo-transition-mobile.mp4" type="video/mp4" media="(max-width: 760px)" />
+        <source src="./public/media/signature/miroir-logo-transition-desktop.webm" type="video/webm" />
+        <source src="./public/media/signature/miroir-logo-transition-desktop.mp4" type="video/mp4" />
+      </video>
+      <p>Un lieu aussi doux que nos glaces.</p>
+    </section>
+
+    <section class="products section-pad" id="gourmandises">
+      <div class="section-heading">
+        <div><p class="eyebrow coral">Goûte à tout</p><h2>Trois façons de fondre</h2></div>
+        <p>Du froid, du chaud, du croustillant. À savourer sur place, en balade ou à partager.</p>
+      </div>
+      <div class="product-grid">
+        <article class="product-card card-ice">
+          <span>01</span><h3>Glaces & sorbets</h3>
+          <p>Des textures onctueuses, des fruits soigneusement sélectionnés et des parfums qui racontent un souvenir.</p>
+          <a href="#boutiques">Trouver ta boutique</a>
+        </article>
+        <article class="product-card card-coffee">
+          <span>02</span><h3>Coffee shop</h3>
+          <p>Café, thé, matcha et boissons gourmandes : le réconfort se déguste toute l’année.</p>
+          <a href="#coffee-shop">Voir le moment chaud</a>
+        </article>
+        <article class="product-card card-sweet">
+          <span>03</span><h3>Crêpes & gaufres</h3>
+          <p>Moelleuses, croustillantes, généreuses — et encore meilleures avec une boule de glace.</p>
+          <a href="#moment">Découvrir le moment</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="coffee-shop" id="coffee-shop">
+      <div class="coffee-copy">
+        <p class="eyebrow">La saison du réconfort</p>
+        <h2>C’est chaud.<br />C’est doux.<br />C’est sacrément bon.</h2>
+        <p>Nos boissons gourmandes font durer l’expérience Sacrée Crème bien après l’été.</p>
+        <a class="button button-light" href="#moment">Voir le produit du moment</a>
+      </div>
+      <div class="coffee-video media-frame">
+        <video muted autoplay loop playsinline preload="none" poster="./public/media/posters/chocolat-chaud.jpg" aria-label="Préparation d’un chocolat chaud gourmand">
+          <source src="./public/media/coffee-shop/chocolat-chaud-mobile.webm" type="video/webm" media="(max-width: 760px)" />
+          <source src="./public/media/coffee-shop/chocolat-chaud-mobile.mp4" type="video/mp4" media="(max-width: 760px)" />
+          <source src="./public/media/coffee-shop/chocolat-chaud-desktop.webm" type="video/webm" />
+          <source src="./public/media/coffee-shop/chocolat-chaud-desktop.mp4" type="video/mp4" />
+        </video>
+      </div>
+    </section>
+
+    <section class="moment section-pad" id="moment">
+      <div class="moment-media media-frame">
+        <video muted autoplay loop playsinline preload="none" poster="./public/media/posters/pluie-sucre-glace.jpg" aria-label="Une pluie de sucre glace sublime une gourmandise">
+          <source src="./public/media/signature/pluie-sucre-glace-desktop.webm" type="video/webm" />
+          <source src="./public/media/signature/pluie-sucre-glace-desktop.mp4" type="video/mp4" />
+        </video>
+      </div>
+      <div class="moment-copy">
+        <p class="eyebrow coral">Produit du moment · Projet à valider</p>
+        <h2>Les chocolats chauds prennent leurs quartiers.</h2>
+        <p>Une collection saisonnière généreuse, pensée pour donner envie dès le premier regard. Les recettes et visuels définitifs seront publiés après validation du réseau.</p>
+        <span class="status-pill">Sélection en cours de validation</span>
+      </div>
+    </section>
+
+    <section class="locations section-pad" id="boutiques">
+      <div class="section-heading light">
+        <div><p class="eyebrow mint">Nos adresses</p><h2>Deux boutiques.<br />Un même frisson.</h2></div>
+        <p>Découvre le concept à Caen et au Havre, puis suis l’aventure dans les prochaines villes.</p>
+      </div>
+      <div class="location-grid">
+        <article class="location-card">
+          <video muted autoplay loop playsinline preload="none" poster="./public/media/posters/caen-facade.jpg">
+            <source src="./public/media/caen/caen-facade-desktop.webm" type="video/webm" />
+            <source src="./public/media/caen/caen-facade-desktop.mp4" type="video/mp4" />
+          </video>
+          <div><p class="eyebrow">Caen</p><h3>Le cœur historique</h3><p>Une façade vivante et un intérieur pensé pour savourer chaque moment.</p></div>
+        </article>
+        <article class="location-card">
+          <video muted autoplay loop playsinline preload="none" poster="./public/media/posters/archi-3.jpg">
+            <source src="./public/media/architecture/archi-3-desktop.webm" type="video/webm" />
+            <source src="./public/media/architecture/archi-3-desktop.mp4" type="video/mp4" />
+          </video>
+          <div><p class="eyebrow">Le Havre</p><h3>Le concept nouvelle génération</h3><p>Une architecture enveloppante, lumineuse et résolument Sacrée Crème.</p></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="franchise" id="franchise">
+      <div class="franchise-hero section-pad">
+        <p class="eyebrow">Entreprendre avec gourmandise</p>
+        <h2>Et si la prochaine<br />Sacrée Crème était la tienne ?</h2>
+        <p>Un concept de glacier–coffee shop distinctif, conçu pour vivre toute l’année et créer un vrai lieu de destination.</p>
+        <a class="button button-coral" href="#franchise-contact">Présenter ton projet</a>
+      </div>
+      <div class="franchise-pillars section-pad">
+        <article><span>01</span><h3>Un concept désirable</h3><p>Une identité forte, un parcours client chaleureux et une mise en scène gourmande.</p></article>
+        <article><span>02</span><h3>Une offre quatre saisons</h3><p>Glaces, boissons, crêpes, gaufres et temps forts saisonniers.</p></article>
+        <article><span>03</span><h3>Un réseau à tes côtés</h3><p>Un cadre opérationnel et des outils à découvrir pendant le parcours candidat.</p></article>
+      </div>
+      <div class="territories section-pad">
+        <div><p class="eyebrow coral">Où écrire la suite ?</p><h2>Des villes où le concept a toute sa place.</h2><p>Les zones présentées ici sont des orientations de développement. Leur ouverture dépendra de l’étude du marché, du local et du projet candidat.</p></div>
+        <div class="city-cloud" aria-label="Zones de développement à confirmer">
+          <span>Rouen</span><span>Rennes</span><span>Toulouse</span><span>Paris</span><span>Lille</span><span>Bordeaux</span><span>Nantes</span>
+        </div>
+      </div>
+      <div class="franchise-contact section-pad" id="franchise-contact">
+        <div><p class="eyebrow">Ton projet commence ici</p><h2>Parlons de ta ville.</h2></div>
+        <form class="interest-form" aria-label="Formulaire d’intérêt franchise" data-demo-form>
+          <label>Prénom et nom<input type="text" name="name" autocomplete="name" required /></label>
+          <label>Email<input type="email" name="email" autocomplete="email" required /></label>
+          <label>Ville envisagée<input type="text" name="city" autocomplete="address-level2" required /></label>
+          <button class="button button-light" type="submit">Envoyer mon intérêt</button>
+          <p class="form-note">Prototype : aucun envoi n’est effectué dans cette version.</p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer section-pad">
+    <img src="./public/assets/logo-sacree-creme.svg" alt="Sacrée Crème" />
+    <p>Créateur d’émotions glacées</p>
+    <div><a href="#top">Retour en haut</a><span>Projet à valider · 2026</span></div>
+  </footer>
+
+  <button class="motion-toggle" type="button" data-motion-toggle aria-pressed="false">Réduire les animations</button>
+  <script type="module" src="./src/app.js"></script>
+</body>
+</html>

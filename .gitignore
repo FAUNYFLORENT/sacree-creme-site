@@ -1,0 +1,5 @@
+source-videos/
+source-assets/
+.DS_Store
+*.log
+node_modules/
